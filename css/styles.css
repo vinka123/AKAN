@@ -15,12 +15,12 @@ p {
    width:40%;
 }
 h1 {
-    color: white;
-    background-color: green;
+    color: orange;
+    background-color: black;
     font-variant:small-caps ;
 }
 h2 {
-    color:orange;
+    color:white;
     background-color: black;
     font-style: italic;
 }
