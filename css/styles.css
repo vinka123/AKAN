@@ -14,3 +14,13 @@ p {
    float:center;
    width:40%;
 }
+h1 {
+    color: white;
+    background-color: green;
+    font-variant:small-caps ;
+}
+h2 {
+    color:orange;
+    background-color: black;
+    font-style: italic;
+}
