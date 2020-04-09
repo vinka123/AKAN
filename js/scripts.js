@@ -1,1 +1,1 @@
-alert('Hello there!This is a simple web app i designed to find your Akan name.');
+alert('Hello there!This is a simple web app i designed to find your Akan name.');gi
