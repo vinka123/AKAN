@@ -3,15 +3,15 @@
     border-bottom:5px solid orange;
     border-right:5px solid blue;
     border-left:5px solid violet;
-    padding:40px;
+    padding:30px;
 }
 p {
-    color: orange;
+    color: #00122D;
     font-family: monospace;
     font-size: 130%;
 }
 .sidebar {
-   float:left;
+   float: left;
    width:40%;
 }
 h1 {

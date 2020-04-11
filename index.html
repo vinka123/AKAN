@@ -10,12 +10,13 @@
 <body>
     <div class="container">
     <div class="jumbotron">
+    <div class="card">
     <div class="test-box">
     <h1>Brief description</h1>
         <p>This is a simple program i created that takes a user's birthday and calculates the day of the week they were born and then depending on their gender outputs their Akan Name. 
             Akan names are derived from Ghanian culture. Frequently in Ghana, children are given their first name as a 'day name' which corresponds to the day in the week they were born.</p>
     <div class="sidebar">
-        <p>Please fill in the form below</p>
+        <p>Please fill in the form below:</p>
         <form action="js/scripts.js">
         <input type="radio"
         name="gender"value="Male" />Male
@@ -23,8 +24,9 @@
         name="gender"value="Female" />Female
         <label for="birthday">Birthday:</label>
             <input type="date" id="birthday" name="birthday">
-            <input type="submit" onclick="detBday()"value="submit">
+            <button type="submit">submit</button>
         </form>
+        </div>
         </div>
         </div>
         <script src="js/scripts.js"></script>
